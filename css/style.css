@@ -26,7 +26,7 @@ body{
 	display: block !important;
 	}
 
-.tab-main-container, .tab-main-container1{
+.tab-main-container{
 	margin: 50px auto;
 	width: 600px;
 	}

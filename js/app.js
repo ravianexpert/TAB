@@ -48,11 +48,6 @@ var tab1 = new Tab({
 	container: document.querySelector(".tab-main-container")
 });
 
-var tab2 = new Tab({
-	activeTab : 2,
-	activeTabContainer : 2,
-	container: document.querySelector(".tab-main-container1")
-});
 
 
 
