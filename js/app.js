@@ -1,7 +1,7 @@
 /*
-Plugin Name: Tab Container
+Plugin Name: Tab
 Dependency: JavaScript, CSS 3.0
-Complete Reference on: 
+Complete Reference on: https://github.com/ravianexpert/tab
 
 Developer: Ravi Kumar
 Website: http://uiravi.com
